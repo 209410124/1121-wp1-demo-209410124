@@ -1,2 +1,7 @@
 git config --global user.email "209410124@gme.tku.edu.tw"
 git config --global user.name"209410124"
+
+DATABASE =SUPABASE
+
+SUPABASE_HOST=db.hsexmvemzjlqjqnfwwob.supabase.co
+SUPABASE_PASSWORD=UtR808uejJAWqGZ6
